@@ -15,14 +15,12 @@
 - ESP32
 
 ### ⚙️ 系統
-
 - 裸機
 - FreeRTOS
 - Zephyr
 
 ### 🐧 Linux
 
-- 指令操作
 
 ### 🛠️ 工具
 
@@ -30,14 +28,8 @@
 - IAR
 - VS Code
 - GCC
+- Linux 指令操作
 
-### 📟 公開作品
-
-**[pytools-UartMonitor](https://github.com/yuguei/pytools-UartMonitor)**
-
-桌面 UART 串口監控。
-
-用 WebView2 開視窗，可收 log、送 TX。
 
 ### 💬 聯絡
 
